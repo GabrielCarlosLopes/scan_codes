@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802039369940",
+    "project_id": "scancodes-e8d87",
+    "storage_bucket": "scancodes-e8d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802039369940:android:ee01f0555915f72ea3eb41",
+        "android_client_info": {
+          "package_name": "com.example.scan_codes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802039369940-gpou7suf42emihnjtt6j17lrmn5m0lh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQOCBSRpg_mhWdCcKt0FPETaPC1moQfVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802039369940-gpou7suf42emihnjtt6j17lrmn5m0lh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
