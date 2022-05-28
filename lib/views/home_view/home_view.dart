@@ -62,7 +62,7 @@ class _HomeViewState extends State<HomeView> {
         children: [
           SpeedDialChild(
             child: const Icon(Icons.qr_code),
-            label: 'QR code',
+            label: 'Código QR',
             onTap: () {
               homeViewController!.scanQR().then((value) async {
                 if (value == true) {
@@ -85,7 +85,7 @@ class _HomeViewState extends State<HomeView> {
                 ),
               ),
             ),
-            label: 'Bar code',
+            label: 'Código de barras',
             onTap: () {
               homeViewController!.scanBarcodeNormal().then((value) async {
                 if (value == true) {
